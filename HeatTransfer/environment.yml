@@ -1,0 +1,7 @@
+name: termodinamica-environment
+dependencies:
+  - numpy
+  - matplotlib
+  - bokeh
+  - IPython
+  - CoolProp
