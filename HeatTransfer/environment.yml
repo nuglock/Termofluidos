@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: termodinamica-environment
 dependencies:
   - numpy
@@ -6,12 +5,3 @@ dependencies:
   - bokeh
   - IPython
   - CoolProp
-=======
-name: termodinamica-environment
-dependencies:
-  - numpy
-  - matplotlib
-  - bokeh
-  - IPython
-  - CoolProp
->>>>>>> 9d50a2376475d59d3e990fa9ebc05af38cf8d70c
